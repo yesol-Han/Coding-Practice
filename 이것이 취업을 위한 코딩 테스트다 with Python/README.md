@@ -1,5 +1,4 @@
-# This-is-coding-test-for-finding-jobs-with-Python
-이것이 취업을 위한 코딩 테스트다 with 파이썬
+# 이것이 취업을 위한 코딩 테스트다 with 파이썬
 
 \* 게시된 코드는 유튜브 강의를 보고 직접 풀어본 것이라 책과 코드가 조금 다를 수 있습니다.
 
@@ -20,3 +19,23 @@
 
 - - -
 
+**3. DFS & BFS https://youtu.be/7C9RgOcvkvo**
+* **16강 스택과 큐 자료구조**    
+  + 스택: 리스트 구현
+  + 큐: from collection import deque     
+
+* **17강 재귀함수**    
+
+* **18강 DFS 알고리즘**    
+  + DFS: Depth-First Search, 깊이 우선 탐색   
+  + 그래프에서 깊은 부분을 우선적으로 탐색    
+  + 스택 자료구조 혹은 재귀함수 이용   
+
+* **19강 BFS 알고리즘**    
+  + BFS: Breadth-First Sesarch, 너비 우선 탐색
+  + 가까운 노드부터 우선적으로 탐색    
+  + 큐 자료구조 이용     
+
+* **20강 DFS & BFS 기초 문제 풀이**    
+  + <문제> 음료수 얼려 먹기    
+  + 
